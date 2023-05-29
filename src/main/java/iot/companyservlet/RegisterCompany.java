@@ -21,8 +21,8 @@ public class RegisterCompany extends HttpServlet {
 
 	private static final long serialVersionUID = -6880014437671273900L;
 	private final String url = "jdbc:mysql://localhost:3306/companies";
-	private final String username = "root";
-	private final String password = "10071990";
+	private final String username = "username";
+	private final String password = "password";
 	
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws IOException {	
 		Connection connection = null;
