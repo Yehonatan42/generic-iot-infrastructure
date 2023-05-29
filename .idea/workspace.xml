@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0304393-fe01-4cc4-b0b3-6130f917d29d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../eclipse-workspace/IoT/src/main/java/iot/companyservlet/RegisterCompany.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse-workspace/IoT/src/main/java/iot/companyservlet/RegisterProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse-workspace/IoT/src/main/java/iot/gatewayserver/GatewayServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse-workspace/IoT/src/main/java/iot/gatewayserver/RegisterDevice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse-workspace/IoT/src/main/java/iot/gatewayserver/SingletonCommandFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse-workspace/IoT/src/main/java/iot/gatewayserver/UpdateDevice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse-workspace/IoT/src/main/java/iot/gatewayserver/commands/CreateCompanyCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse-workspace/IoT/src/main/java/iot/gatewayserver/commands/CreateDeviceCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse-workspace/IoT/src/main/java/iot/gatewayserver/commands/CreateProductCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse-workspace/IoT/src/main/java/iot/gatewayserver/commands/UpdateDeviceCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse-workspace/IoT/src/main/java/iot/gatewayserver/threadpool/Priority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse-workspace/IoT/src/main/java/iot/gatewayserver/threadpool/ThreadPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse-workspace/IoT/src/main/java/iot/gatewayserver/threadpool/WaitablePQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse-workspace/IoT/src/main/java/iot/util/ForwardToGateway.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse-workspace/IoT/src/main/java/iot/util/HttpRequestToJSON.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse-workspace/OfficeReservation/src/main/java/net/codejava/javaee/OfficeServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse-workspace/OfficeReservation/src/main/java/net/codejava/javaee/ReadCSV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/Chat/Client/ChatClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/Chat/GUI/ChatClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/Chat/GUI/ChatGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/Chat/GUI/ClientMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/Chat/GUI/Register.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/Chat/MessageProtocol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/Chat/Operations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/Chat/Server/ChatServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/Chat/Server/ServerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/ThreadPool/Priority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/ThreadPool/ThreadPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/ThreadPool/ThreadPoolTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/VendingMachine/Coin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/VendingMachine/Coins.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/VendingMachine/Monitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/VendingMachine/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/VendingMachine/VendingMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/VendingMachine/VendingMachineTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/snake/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/snake/src/Direction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/snake/src/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/snake/src/GameBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/snake/src/InputReceive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/snake/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/snake/src/Snake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/snake/src/SnakeGameController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/snake/src/SnakeGameModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/src/projects/snake/src/SnakeGameView.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QPvyll9r0z74ntQcqNRkNkHVGM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/yehonatan/Desktop/GitHub/projects/snake"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0304393-fe01-4cc4-b0b3-6130f917d29d" name="Changes" comment="" />
+      <created>1685268288491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685268288491</updated>
+    </task>
+    <servers />
+  </component>
+</project>
