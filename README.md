@@ -29,7 +29,7 @@ Before running the IoT Gateway Server, make sure you have the following:
 
 ## Installation and Setup
 
-1. Clone the repository: `git clone https://github.com/your-username/iot-gateway-server.git`
+1. Clone the repository: `git clone https://github.com/your-username/generic-iot-infrastructure.git`
 2. Build the project using Maven: `mvn clean install`
 3. Deploy the generated WAR file to your Tomcat server.
 4. Configure the MongoDB connection URL in the server application code.
