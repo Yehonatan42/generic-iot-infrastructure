@@ -1,4 +1,4 @@
-# Generic IoI Infrastructure
+# Generic IoT Infrastructure
 
 The IoT Gateway Server is a Java-based server application designed to handle incoming requests and manage data related to IoT devices and companies. It provides a set of commands to create, update, and retrieve information from a MongoDB database.
 
